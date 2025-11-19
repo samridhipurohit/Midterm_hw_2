@@ -6,14 +6,15 @@ Submit your pull request by Tuesday 12pm.
 
 ## Initial code description
 
-# Instructions for Samridhi Purohit - Coder 1 
+# Instructions for Samridhi Purohit - Coder 1
 `code/01_make_table1.R`
-- generates a table that summarizes the COVID cases, deaths, CFR by state
-- Save it as 'state_summary.rds' in the output/tables/ folder.
+- Generates a table summarizing the `CLASIFFICATION_FINAL` variable
+  (counts and percentages for each classification category).
+- Save it as `classification_summary.csv` in the `output/tables/` folder.
 
 `code/01_make_figure1.R`
-- Generates a line plot of cases over time.
-- Save it as 'cases_over_time.png'in the output/figures/ folder.
+- Generates a bar plot showing the distribution of the `CLASIFFICATION_FINAL` variable.
+- Save it as `classification_distribution.png` in the `output/figures/` folder.
 
 # Instructions for Akanshya Dash - Coder 2
 `code/02_make_table2.R`
